@@ -35,7 +35,7 @@ pkg install python git figlet -y
 Clone the Kadili SMS Tracker repository from GitHub by running:
 
 ```bash
-git clone https://github.com/yourusername/Kadili-SMS-Tracker
+git clone https://github.com/termuxboy-255/Kadili-sms-tracker
 ```
 
 ### 4. **Navigate to the repository**
@@ -43,7 +43,7 @@ git clone https://github.com/yourusername/Kadili-SMS-Tracker
 Change into the project directory:
 
 ```bash
-cd Kadili-SMS-Tracker
+cd Kadili-sms-tracker 
 ```
 
 ### 5. **Run the installation script**
@@ -79,6 +79,4 @@ The SMS logs will be saved in the `sms_data.json` file.
 **Created by Kadili**
 ```
 
----
 
-Hii ni **README.md** ambayo ina hatua zote za **installation** kwa mpangilio wa **markdown**. Mtu yoyote anayeangalia README atakuwa na maelekezo yote muhimu kwa ufundi wa kufunga, kutumia, na kutekeleza script kwenye **Termux**.

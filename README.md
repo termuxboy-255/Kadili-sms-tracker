@@ -1,6 +1,6 @@
-Ah, sasa ninakuelewa! Unataka hatua zote za **installation** ziwe ndani ya markdown, ili mtu anayeangalia **README.md** afuate hatua zote moja kwa moja. Hii ni mfano wa **README.md** ulio na hatua zote za **installation** ndani ya markdown.
 
-```markdown
+
+
 # Kadili SMS Tracker
 
 Kadili SMS Tracker is a simple Python script to simulate SMS tracking on Termux. It displays SMS details such as sender, message content, and the time the message was received.
@@ -20,7 +20,7 @@ First, update the Termux packages by running the following command:
 
 ```bash
 pkg update -y && pkg upgrade -y
-
+```
 
 ### 2. **Install required packages**
 

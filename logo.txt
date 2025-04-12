@@ -1,0 +1,7 @@
+  K   K   AAAAA   DDDD   III  L      III   SSSS    M   M   SSSS
+  K  K    A   A   D   D   I   L       I    S       MM MM   S
+  KKK     AAAAA   D   D   I   L       I    SSS     M M M   SSS
+  K  K    A   A   D   D   I   L       I       S    M   M      S
+  K   K   A   A   DDDD   III  LLLLL  III  SSSS    M   M   SSSS
+
+             created by kadili (255hackergroup)
